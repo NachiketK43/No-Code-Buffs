@@ -46,32 +46,11 @@ Chat feature is still under development and will be launched soon
 
 ## 📸 Screenshots 
 
-### Chat Page
-![Chat Page](screenshots/Chat%20Page.png)
-
 ### Chat Page (Bubble Editor)
 ![Chat Page (Bubble Editor)](screenshots/Chat%20Page%20%28Bubble%20Editor%29.png)
 
-### User Profile Page
-![User Profile Page](screenshots/User%20Profile%20Page.png)
-
-### User Profile Page (Bubble Editor)
-![User Profile Page (Bubble Editor)](screenshots/User%20Profile%20Page%20%28Bubble%20Editor%29.png)
-
-### Workflow – Deleting a Conversation
-![Workflow – Deleting a Conversation](screenshots/Workflow%20for%20deleting%20a%20conversation.png)
-
-### Workflow – Sending Message in a Conversation
-![Workflow – Sending Message in a Conversation](screenshots/Workflow%20for%20sending%20message%20in%20a%20conversation.png)
-
-### Workflow – Sending Message in a Group
-![Workflow – Sending Message in a Group](screenshots/Workflow%20for%20sending%20message%20in%20a%20group.png)
-
-### Workflow – Add More Members to Group
-![Workflow – Add More Members to Group](screenshots/Workflow%20to%20add%20more%20members%20to%20group.png)
-
-### Workflow – Create New Group
-![Workflow – Create New Group](screenshots/Workflow%20to%20create%20new%20group.png)
+### Chat Page 2 (Bubble Editor)
+![Chat Page 2 (Bubble Editor)](screenshots/Chat%20Page%202%20%28Bubble%20Editor%29.png)
 
 ---
 
