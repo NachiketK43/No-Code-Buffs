@@ -18,6 +18,11 @@ A real-time community chat feature for a Bubble.io app that helps Bubble develop
 🔗 [Click to view website](https://nocodebuffs.com/)
 _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 
+Use this account to explore the application:
+
+Email: nk.karhade332@gmail.com
+Password: Nachiket98$
+
 Chat feature is still under development and will be launched soon
 ⚠️ *Data may reset periodically.*
 
