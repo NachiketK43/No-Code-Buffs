@@ -1,4 +1,4 @@
-# No-Code-Buffs
+# No-Code-Buffs - Chat Page
 A real-time community chat feature for a Bubble.io app that helps Bubble developers connect, DM, and share resources.
 
 ---
