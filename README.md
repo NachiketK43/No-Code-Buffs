@@ -1,15 +1,22 @@
 # No-Code-Buffs - Chat Page
-A real-time community chat feature for a Bubble.io app that helps Bubble developers connect, DM, and share resources.
+A comprehensive community platform for no-code enthusiasts, built on Bubble.io.
+This project brings together learning, resources, and real-time chat features to help creators, freelancers, and founders upskill and collaborate seamlessly.
 
 ---
 
 ## Feature List
 
-- User Profile Setup
-- Secure Login
-- 1-on-1 Messaging
-- Media Sharing 
-- Profile Section
+- Academy Page with structured free & paid courses
+- Yearly membership system with full-access unlock
+- Certificates upon course completion
+- Resource hub with guides, templates, and coaching sessions
+- Category-based search & filtering
+- Direct downloads for free resources
+- Premium checkout flow for paid assets
+- Real-time chat with 1-on-1 messaging
+- Media and file sharing in chats
+- User authentication and profile setup
+- Progress tracking for lessons and courses
 
 ---
 
@@ -24,22 +31,50 @@ _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 
 ## Project Features
 
-**User Authentication & Profile Setup**
-- Signup/Login page with built-in Bubble authentication
-- Redirects new users to profile creation page after signup
-- Test users land on pre-filled profile page (can still edit details)
-- Editable fields: Profile picture, name, email address and bio
+**User Authentication & Profile Management**
+- Signup/Login implemented using Bubble’s built-in authentication system.
+- Onboarding flow redirects new users to a profile setup page after registration.
+- Profile fields include profile picture, name, email, bio, and social links (LinkedIn, Instagram, YouTube, Twitter, etc.).
+- Test users are directed to a pre-filled profile page, but can still edit details.
+- Profile section displays role, headline, about, location, joined date, and email.
+- Access control ensures users can only view and interact with content relevant to their account.
 <br>
 
-**User Profile Section**
-- Displays key user details (role, headline, about)
-- Shows location, joined date, and email for contact
-- Social media and scheduling links (LinkedIn, Instagram, YouTube, Twitter, etc.)
+**Academy & Learning Hub**
+- Centralized academy page offering free and paid courses from top mentors.
+- Category-based filtering for quick discovery of courses.
+- Three-tier membership structure: Free access for registered users, Yearly membership for premium courses.
+- Courses structured into sections and lessons, enabling clear learning progression.
+- Certificates awarded on completion and displayed on user profiles.
+- Smooth navigation between lessons for a frictionless learning experience.
+- Downloadable lesson resources including documents, presentations, and videos.
+- Built-in progress tracking to monitor course completion.
 <br>
 
-**Privacy & Access Rules**
-- Users can view only the conversations they belong to
-- File sharing restricted to participants of that conversation
+**Resource Discovery & Monetization**
+- Curated resources page integrated into the community platform.
+- Keyword-based search bar and category filters for efficient browsing.
+- Free resources available for direct download.
+- Premium resources and templates available via integrated checkout flow.
+- Option to book 1-on-1 coaching sessions with mentors.
+- Clean, card-based UI showcasing pricing, duration, ratings, download count, and participants.
+- Consistent user experience across all resource types.
+<br>
+
+**Real-Time Community Chat**
+- 1-on-1 direct messaging feature enabling users to connect and collaborate.
+- Real-time chat interface with media and file sharing support.
+- Secure access control ensures only conversation participants can view or share files.
+- Each user can manage their profile directly from the chat interface for a seamless experience.
+- Chat integrated with the wider platform for smooth transitions between learning, resources, and communication.
+<br>
+
+**Privacy, Access & User Experience**
+- Role-based access and privacy rules ensure secure interactions throughout the platform.
+- Users can only access the resources, courses, and conversations they belong to.
+- Consistent design system across Academy, Resources, and Chat pages — emphasizing ease of use and clarity.
+- Optimized for smooth navigation and engagement across all sections.
+<br>
 
 ---
 
