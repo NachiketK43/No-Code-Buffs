@@ -1,4 +1,4 @@
-# No-Code-Buffs - Chat Page
+# No-Code-Buffs
 A comprehensive community platform for no-code enthusiasts, built on Bubble.io.
 This project brings together learning, resources, and real-time chat features to help creators, freelancers, and founders upskill and collaborate seamlessly.
 
@@ -83,11 +83,23 @@ _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 ### Chat Page 
 ![Chat Page](screenshots/Chat%20Page.png)
 
-### Chat Page (Bubble Editor)
-![Chat Page (Bubble Editor)](screenshots/Chat%20Page%20%28Bubble%20Editor%29.png)
+### Academy Page 
+![Academy Page](screenshots/Academy%20Page.png)
 
-### Chat Page 2 (Bubble Editor)
-![Chat Page 2 (Bubble Editor)](screenshots/Chat%20Page%202%20%28Bubble%20Editor%29.png)
+### Agency Page 
+![Agency Page](screenshots/Agency%20Page.png)
+
+### Resource Page 
+![Resource Page](screenshots/Resource%20Page.png)
+
+### Lesson Page 
+![Lesson Page](screenshots/Lesson%20Page.png)
+
+### Roadmap Page 
+![Roadmap Page](screenshots/Roadmap%20Page.png)
+
+### Course Page 
+![Course Page](screenshots/Course%20Page.png)
 
 ---
 
